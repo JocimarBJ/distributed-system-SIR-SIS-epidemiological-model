@@ -1,2 +1,2 @@
-# distributed-system-SIR-SIS-epidemiological-model
-Projeto desenvolvido durante as aulas de Sistemas Distribuídos, onde devíamos desenvolver Modelos SIR/SIS para simular a propagação de epidemias na população. O projeto foi desenvolvido em RMI, Paralelo e Sequencial, para fins didáticos e aprendizado. Durante o desenvolvimento, devíamos comparar os tempos de execução entre os três, discutir a escalabilidade e eficiência entre eles e identificar possiveis problemas ou limitações.
+# Distributed System - SIR/SIR Epidemiological Model
+This project was developed during Distributed Systems classes, where we had to develop SIR/SIS models to simulate the spread of epidemics in the population. The project was developed in RMI, Parallel, and Sequential for didactic and learning purposes. <br>During development, we had to compare the execution times between the three, discuss their scalability and efficiency, and identify possible problems or limitations.
